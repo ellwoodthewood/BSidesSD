@@ -37,3 +37,5 @@ Needed Neopixel library. Added neopixel.mpy to **lib/** directory.
 Able to control LEDs 2 to 5 but LED 1 still green/yellow/white clearly getting some noise
 
 First LED not due to noise. This is python code crashing/returning to circuitpython control where an APA102 LED is expected thus bad data is sent. Will create an issue to custom build CP for our WS2812B trinket m0.
+
+CP is crashing when *not* plugged into USB. Not sure why. Providing 5v through VBUS/GND pins just lights up first LED. Need to find logs.
