@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# sk6812_side
+#
+DEF sk6812_side U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "sk6812_side" -200 300 28 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -200 250 300 -250 0 1 0 f
+X DIN 1 -300 0 100 R 50 50 1 1 I
+X VDD 2 50 350 100 D 50 50 1 1 O
+X DOUT 3 400 0 100 L 50 50 1 1 O
+X GND 4 50 -350 100 U 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
