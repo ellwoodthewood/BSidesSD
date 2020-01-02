@@ -1,3 +1,5 @@
+# 12/31/19
+
 Flashed bootloader with SEGGER JLink. Connected vref, reset, swdio, swclk, and gnd. Power is supplied by USB.
 
 Pre-built bootloaders available here: https://github.com/adafruit/uf2-samdx1/releases use "trinket_m0"
@@ -39,3 +41,17 @@ Able to control LEDs 2 to 5 but LED 1 still green/yellow/white clearly getting s
 First LED not due to noise. This is python code crashing/returning to circuitpython control where an APA102 LED is expected thus bad data is sent. Will create an issue to custom build CP for our WS2812B trinket m0.
 
 CP is crashing when *not* plugged into USB. Not sure why. Providing 5v through VBUS/GND pins just lights up first LED. Need to find logs.
+
+--------------------
+
+# 1/1/20
+
+Reset button not working and vbatt "crash" are likely related. When testing voltage at reset pin, a reset is forced and code boots properly. I suspect bootloader is running and causing first LED to light up green. User code AKA circuitpython is not being run.
+
+Rest button was bad - probably due to alcohol bath (not uncommon). New button properly resets the circuit. 
+
+Still fails to leave bootloader on initial power up, but a quick reset makes it work fine.
+
+Root cause: Rise time of power supply. On battery power it boots fine all the time.
+
+Need to add a power switch. 
