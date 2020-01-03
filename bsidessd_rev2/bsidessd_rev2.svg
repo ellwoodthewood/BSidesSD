@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.0mm"
+   height="100.0mm"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="bsidessd_rev2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="28.540546"
+     inkscape:cy="62.417518"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g830"
+     showgrid="true"
+     inkscape:window-width="3392"
+     inkscape:window-height="1376"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       id="grid816"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g822"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG">
+    <rect
+       id="rect820"
+       style="stroke:none;fill-opacity:1;fill:#FFFFFF"
+       height="100.0"
+       width="100.0"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g824"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.55667835;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M10.0 56.692708L87.0 56.692708L88.025269 56.720558L89.020273 56.802308L89.980063 56.935288L90.899687 57.116814L91.774194 57.344207L92.598633 57.614785L93.368052 57.925868L94.0775 58.274777L94.722026 58.65883L95.018397 58.863199L95.29668 59.075348L95.556257 59.294944L95.796509 59.521651L96.016817 59.755134L96.216562 59.995057L96.395126 60.241087L96.55189 60.492888L96.686234 60.750124L96.797539 61.012462L96.885189 61.279565L96.948559 61.551099L96.987039 61.826728L97.0 62.10612L97.0 94.586588L96.98704 94.865979L96.94856 95.141609L96.88519 95.413142L96.79754 95.680246L96.686235 95.942583L96.551891 96.199819L96.395127 96.45162L96.216563 96.69765L96.016818 96.937574L95.79651 97.171056L95.556258 97.397763L95.296681 97.617359L95.018398 97.829508L94.722027 98.033877L94.077501 98.41793L93.368053 98.766839L92.598634 99.077923L91.774195 99.348501L90.899688 99.575893L89.980064 99.757419L89.020274 99.8904L88.02527 99.97215L87.0 100.0L10.0 100.0L8.9747314 99.972153L7.9797266 99.8904L7.0199365 99.757419L6.1003125 99.575893L5.2258057 99.348501L4.4013672 99.077923L3.6319482 98.766839L2.9225 98.41793L2.2779736 98.033877L1.9816034 97.829508L1.7033203 97.617359L1.4437433 97.397763L1.2034912 97.171056L0.98318298 96.937574L0.7834375 96.69765L0.60487366 96.45162L0.44811035 96.199819L0.31376648 95.942583L0.20246094 95.680246L0.11481262 95.413142L0.05144043 95.141609L0.01296326 94.865979L0.0 94.586588L0.0 62.10612L0.01296326 61.826729L0.05144043 61.5511L0.11481262 61.279566L0.20246094 61.012463L0.31376648 60.750125L0.44811035 60.492889L0.60487366 60.241088L0.7834375 59.995058L0.98318298 59.755135L1.2034912 59.521652L1.4437433 59.294945L1.7033203 59.075349L1.9816034 58.8632L2.2779736 58.658831L2.9225 58.274778L3.6319482 57.925869L4.4013672 57.614786L5.2258057 57.344208L6.1003125 57.116815L7.0199365 56.935289L7.9797266 56.802309L8.9747314 56.720555L10.0 56.692708L10.0 56.692708"
+       id="rect854" />
+  </g>
+  <g
+     id="g826"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled" />
+  <g
+     id="g828"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled" />
+  <g
+     id="g830"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.09529781px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17738244"
+       x="-90.28624"
+       y="99.505196"
+       id="text894"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         x="-90.28624"
+         y="99.505196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:0.17738244"
+         id="tspan898">@ellwoodthewood                                    @andnxor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.444199"
+       y="97.826637"
+       id="text999"><tspan
+         sodipodi:role="line"
+         id="tspan997"
+         x="52.444199"
+         y="107.19041"
+         style="stroke-width:0.26458332"></tspan></text>
+  </g>
+  <g
+     id="g832"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu" />
+  <g
+     id="g834"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask-disabled" />
+  <g
+     id="g836"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.2939"
+       y="68.061012"
+       id="text906"><tspan
+         sodipodi:role="line"
+         id="tspan904"
+         x="41.2939"
+         y="77.424782"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59794283px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18994857"
+       x="3.9978402"
+       y="93.556244"
+       id="text894-8"><tspan
+         sodipodi:role="line"
+         x="3.9978402"
+         y="93.556244"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.06529522px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.18994857"
+         id="tspan898-2">BSides San Diego - March 7-8 2020</tspan></text>
+  </g>
+  <g
+     id="g838"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill">
+    <circle
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.1137417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path856"
+       cx="11.25"
+       cy="63.75"
+       r="1.25" />
+    <circle
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.11374171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path856-3"
+       cx="88.25"
+       cy="63.75"
+       r="1.25" />
+  </g>
+</svg>

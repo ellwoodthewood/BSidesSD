@@ -850,7 +850,7 @@ U 1 1 5E189710
 P 6275 7275
 F 0 "J2" H 6355 7267 50  0000 L CNN
 F 1 "SWD" H 6355 7176 50  0000 L CNN
-F 2 "" H 6275 7275 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 6275 7275 50  0001 C CNN
 F 3 "~" H 6275 7275 50  0001 C CNN
 	1    6275 7275
 	1    0    0    -1  
@@ -887,4 +887,15 @@ Text GLabel 5775 7375 0    39   Input ~ 0
 VBUS
 Wire Wire Line
 	6075 7375 5775 7375
+$Comp
+L graphic:graphic g1
+U 1 1 5E18E10B
+P 9875 3325
+F 0 "g1" H 10207 3328 60  0000 L CNN
+F 1 "graphic" H 10207 3222 60  0000 L CNN
+F 2 "bsidessd_rev2:bsidessd_rev2" H 9875 3325 60  0001 C CNN
+F 3 "" H 9875 3325 60  0001 C CNN
+	1    9875 3325
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
