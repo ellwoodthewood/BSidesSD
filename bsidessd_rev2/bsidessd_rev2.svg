@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="28.540546"
-     inkscape:cy="62.417518"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="300.21465"
+     inkscape:cy="15.945606"
      inkscape:document-units="mm"
      inkscape:current-layer="g830"
      showgrid="true"
-     inkscape:window-width="3392"
-     inkscape:window-height="1376"
+     inkscape:window-width="1872"
+     inkscape:window-height="1016"
      inkscape:window-x="48"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -97,15 +97,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.09529781px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17738244"
-       x="-90.28624"
-       y="99.505196"
+       x="-91.656403"
+       y="97.242363"
        id="text894"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
-         x="-90.28624"
-         y="99.505196"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:0.17738244"
-         id="tspan898">@ellwoodthewood                                    @andnxor</tspan></text>
+         x="-91.656403"
+         y="97.242363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:2;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:0.17738244"
+         id="tspan845">@ellwoodthewood</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -116,7 +116,24 @@
          id="tspan997"
          x="52.444199"
          y="107.19041"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.09529781px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17738244"
+       x="-91.655922"
+       y="84.175896"
+       id="text894-4"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         x="-91.655922"
+         y="90.453568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:0.17738244"
+         id="tspan841-7" /><tspan
+         sodipodi:role="line"
+         x="-91.655922"
+         y="99.322693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:2;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:0.17738244"
+         id="tspan845-2">@andnxor</tspan></text>
   </g>
   <g
      id="g832"
